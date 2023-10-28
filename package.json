@@ -1,0 +1,26 @@
+{
+  "name": "jest-unit-testing",
+  "version": "1.0.0",
+  "description": "Jest Unit Testing",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Geethanjali12/Jest-Unit-Testing.git"
+  },
+  "author": "Geethanjali",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Geethanjali12/Jest-Unit-Testing/issues"
+  },
+  "homepage": "https://github.com/Geethanjali12/Jest-Unit-Testing#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "mongoose": "^7.6.3"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
